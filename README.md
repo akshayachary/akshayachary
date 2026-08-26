@@ -47,8 +47,8 @@
 ## 📈 GitHub Performance & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayachary&show_icons=true&theme=dark" alt="Akshay's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayachary&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshayachary&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshayachary&layout=compact&theme=dark" width="48%" />
 </p>
 
 
