@@ -44,11 +44,12 @@
 
 ---
 
-## 📈 GitHub Performance & Stats
+## 📈 GitHub Performance & Data Analytics Focus
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshayachary&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshayachary&layout=compact&theme=dark" width="48%" />
+  
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards/tech-stack-card?title=Data%20Analyst%20Stack&line_1_name=SQL&line_1_percentage=40&line_1_color=336791&line_2_name=Python&line_2_percentage=35&line_2_color=3776AB&line_3_name=Power%20BI&line_3_percentage=25&line_3_color=F2C811&theme=dark" width="48%" />
 </p>
 
 
