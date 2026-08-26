@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Acharya</h1>
-<h3 align="center">AI & Data Engineer | Autonomous AI Agents & Business Intelligence</h3>
+<h3 align="center">Data Analyst & AI Engineer | SQL, Power BI, DAX & Multi-Agent Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshayachary&label=Profile%20views&color=0e75b6&style=flat" alt="akshayachary" />
@@ -7,57 +7,58 @@
 
 ---
 
-### 🔭 Current Focus
-- 🔭 Working on **Autonomous Multi-Agent AI Systems** & **Business Intelligence Pipelines**
-- 🌱 Learning **Advanced LangChain Orchestration & Scalable ML Pipelines**
-- 💬 Ask me about **CrewAI, Python, SQL, Power BI, DAX**
-- 📫 Reach me at **akshayacharya083@gmail.com**
+## 🛠️ Data Analytics & Technical Skills
+
+### **Core Data Analysis & Visualization**
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
+
+### **AI & Agentic Workflows**
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+[![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 
 ---
 
-### 🛠 Tech Stack
+## 📊 Highlighted Data Analytics Projects
 
-#### **Languages & Frameworks**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
+### 1. 📊 [Company Insights 360°](https://github.com/akshayachary/My-Company-Insights)
+> **End-to-End Business Intelligence, Data Modeling & HR Analytics**
+* **Primary Skills:** SQL, Power BI, DAX, Python (Pandas), Data Modeling
+* **Key Achievements:**
+  * Cleaned and structured large-scale organizational dataset using **Pandas** and stored relational entities in an **SQLite** database.
+  * Designed complex relational schemas and written optimized **SQL queries** for data retrieval and transformations.
+  * Built custom **DAX measures** (Time Intelligence, YoY growth, Dynamic Slicers) to calculate revenue drivers, churn rate, and operational margins.
+  * Published an interactive **Power BI Dashboard** enabling executives to drill down into regional and departmental KPIs.
 
----
-
-### 🚀 Featured Projects
-
-#### 🤖 [AI Crew for Stock Analysis](https://github.com/akshayachary/ai-stock-analysis-agent)
+### 2. 🤖 [AI Crew for Stock Analysis](https://github.com/akshayachary/ai-stock-analysis-agent)
 > **Autonomous Multi-Agent Financial Analysis System**
-* **Tech Stack:** Python, CrewAI, LangChain, OpenAI GPT-4, Ollama, SEC-API
-* Autonomous multi-agent pipeline using CrewAI for deep financial analysis, 10-K/10-Q SEC extractions, and investment strategy generation.
-
-#### 📊 [Company Insights 360°](https://github.com/akshayachary/My-Company-Insights)
-> **End-to-End Business Intelligence & HR Analytics**
-* **Tech Stack:** Python, Pandas, SQLite, Power BI, DAX
-* Data lifecycle pipeline extracting raw organizational metrics into SQLite, cleaning data via Pandas, and modeling dynamic KPIs using DAX in Power BI.
+* **Primary Skills:** Python, CrewAI, Financial Data Analysis, SEC Filings (10-K, 10-Q)
+* **Key Achievements:**
+  * Automated financial statement analysis using autonomous multi-agent systems via **CrewAI** and **LangChain**.
+  * Extracted and parsed quantitative trends from unstructured financial data, automating market research workflows.
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Performance & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshayachary&show_icons=true&theme=radial" alt="Akshay's Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayachary&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayachary&theme=radial" alt="Streak Stats" />
-</p>
-
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect & Contact
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:akshayacharya083@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:akshayacharya083@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
