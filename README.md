@@ -46,11 +46,22 @@
 
 ## 📈 GitHub Performance & Data Analytics Focus
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshayachary&show_icons=true&theme=dark" width="48%" />
-  
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards/tech-stack-card?title=Data%20Analyst%20Stack&line_1_name=SQL&line_1_percentage=40&line_1_color=336791&line_2_name=Python&line_2_percentage=35&line_2_color=3776AB&line_3_name=Power%20BI&line_3_percentage=25&line_3_color=F2C811&theme=dark" width="48%" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshayachary&show_icons=true&theme=dark" width="100%" />
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h3>📊 Core Analytics Tech Stack</h3>
+      <p><b>SQL (Data Modeling & Queries):</b></p>
+      <img src="https://img.shields.io/badge/SQL-90%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <p><b>Power BI & DAX (KPI Dashboards):</b></p>
+      <img src="https://img.shields.io/badge/Power_BI-85%25-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      <p><b>Python (Data Analysis & Automation):</b></p>
+      <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 
 
